@@ -1,0 +1,15 @@
+{
+  "name": "plop-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "yarn plop --plopfile ./generators/plopfile.js"
+  },
+  "keywords": [],
+  "author": "João Vitor Barbosa Brandão <hello@joaao.eu> (http://www.joaao.eu/)",
+  "license": "MIT",
+  "devDependencies": {
+    "plop": "^2.7.4"
+  }
+}
